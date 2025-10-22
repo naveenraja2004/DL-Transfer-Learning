@@ -61,9 +61,9 @@ Softmax Activation → Class Probabilities
 
 ## PROGRAM
 
-### Name:MURALI S
+### Name:Naveen Raja N R
 
-### Register Number: 212222230088
+### Register Number: 212222230093
 
 ```python
 
